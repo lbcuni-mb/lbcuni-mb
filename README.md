@@ -1,4 +1,4 @@
-# Hi, I'm Muhammad 👋
+# Hi, I'm Muhammad 
 
 I'm a first-year **BSc Computer Science** student at **Leeds Beckett University**. I use this GitHub account to build my programming portfolio and my online CV as a programmer.
 
@@ -11,5 +11,5 @@ I'm a first-year **BSc Computer Science** student at **Leeds Beckett University*
 
 ## What I'm working on
 
-- My Computer Programming portfolio
+- My Computer Programming portfolio 
 - A stock tracker project in Python (coming soon)
